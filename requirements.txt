@@ -1,0 +1,7 @@
+# Pin to the exact versions tested locally.
+# For Streamlit Cloud / HuggingFace Spaces (limited RAM), replace
+# "tensorflow" with "tensorflow-cpu==2.20.0" to save memory.
+streamlit==1.61.1
+tensorflow==2.20.0
+numpy==2.5.2
+pillow==12.3.0
